@@ -1,0 +1,14 @@
+C:\Users\devri\Desktop\Program_07_03\linq0\bin\Debug\net9.0\LINQ0.exe
+C:\Users\devri\Desktop\Program_07_03\linq0\bin\Debug\net9.0\LINQ0.deps.json
+C:\Users\devri\Desktop\Program_07_03\linq0\bin\Debug\net9.0\LINQ0.runtimeconfig.json
+C:\Users\devri\Desktop\Program_07_03\linq0\bin\Debug\net9.0\LINQ0.dll
+C:\Users\devri\Desktop\Program_07_03\linq0\bin\Debug\net9.0\LINQ0.pdb
+C:\Users\devri\Desktop\Program_07_03\linq0\obj\Debug\net9.0\LINQ0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devri\Desktop\Program_07_03\linq0\obj\Debug\net9.0\LINQ0.AssemblyInfoInputs.cache
+C:\Users\devri\Desktop\Program_07_03\linq0\obj\Debug\net9.0\LINQ0.AssemblyInfo.cs
+C:\Users\devri\Desktop\Program_07_03\linq0\obj\Debug\net9.0\LINQ0.csproj.CoreCompileInputs.cache
+C:\Users\devri\Desktop\Program_07_03\linq0\obj\Debug\net9.0\LINQ0.dll
+C:\Users\devri\Desktop\Program_07_03\linq0\obj\Debug\net9.0\refint\LINQ0.dll
+C:\Users\devri\Desktop\Program_07_03\linq0\obj\Debug\net9.0\LINQ0.pdb
+C:\Users\devri\Desktop\Program_07_03\linq0\obj\Debug\net9.0\LINQ0.genruntimeconfig.cache
+C:\Users\devri\Desktop\Program_07_03\linq0\obj\Debug\net9.0\ref\LINQ0.dll
