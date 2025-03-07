@@ -32,10 +32,12 @@ namespace LINQ0
                 Console.WriteLine(n);
             }
 
-            var smaller15=from smalls in numbers where smalls<15 select smalls;
+            IEnumerable<int> smaller15=from smalls in numbers where smalls<15 && smalls>4 select smalls;
+            Console.WriteLine("numbers smaller then 15 "+smaller15.Count());
             foreach(var n in smaller15)
             {
-                
+                Console.WriteLine(n);
+
             }
 
         }

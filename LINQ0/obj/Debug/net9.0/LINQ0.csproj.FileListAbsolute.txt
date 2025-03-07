@@ -12,3 +12,4 @@ C:\Users\devri\Desktop\Program_07_03\linq0\obj\Debug\net9.0\refint\LINQ0.dll
 C:\Users\devri\Desktop\Program_07_03\linq0\obj\Debug\net9.0\LINQ0.pdb
 C:\Users\devri\Desktop\Program_07_03\linq0\obj\Debug\net9.0\LINQ0.genruntimeconfig.cache
 C:\Users\devri\Desktop\Program_07_03\linq0\obj\Debug\net9.0\ref\LINQ0.dll
+C:\Users\devri\Desktop\Program_07_03\linq0\obj\Debug\net9.0\LINQ0.sourcelink.json
